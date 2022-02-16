@@ -9,3 +9,6 @@ print(a+b)
 c=99
 print(c)
 print("9th commit")
+print("hello iam in chennai")
+print("iam in bengaluru")
+print("5th commit in program")
